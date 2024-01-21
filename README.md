@@ -22,4 +22,4 @@
 - finishing up the data cleaning part
 - some columns still need to be handled somehow. Maybe *binning* could be useful for some categories, such as the participants' salary. You can find the columns that I left unhandled by accessing the data_excel.xlsx file
 - at the point where I try to create the correlation matrix, I think I got rid of NaN values, because NaN values were actually those remaining non-numeric values that I had not yet handled anyhow
-- brainstorming what else can be done with the data? How to make sense of the results of the PCA? The current number of principal compartments is 20, which explains ~78% of the variance. Maybe we could change this number? How to access the compartments themselves?
+- brainstorming what else can be done with the data? How to make sense of the results of the PCA? The current number of principal compartments is 25, which explains ~78% of the variance. Maybe we could change this number? How to access the compartments themselves?
